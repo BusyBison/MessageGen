@@ -32,8 +32,11 @@ With every start of this app you get a new recommondation for a book to start in
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+**Booktitle**
+
+"Brief abstract of the given book."
+
+Hints an comments on the given book. 
 
 
 ## Setup
