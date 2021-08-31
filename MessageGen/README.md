@@ -1,5 +1,5 @@
 # Parents book recommendation
-With every start of this app you get a new recommondation for a book to start in your parents live.
+With every start of this app you get a new random message what the two people are doing in ten years.
 
 
 ## Table of Contents
@@ -14,8 +14,10 @@ With every start of this app you get a new recommondation for a book to start in
 
 
 ## General Information
-- For people who are the first time parents it is very impressive how much book and informations are existing to get to know everything about their baby.
-- This little app should give you randomly recommendations for good books about parenthood in the first baby year.
+- The generator chooses a two names from one Array
+- The generator chooses a to do from a todo-array
+- The names are mixed up with the to do
+- The connected words are displayed for the user
 
 
 ## Technologies Used
@@ -26,17 +28,13 @@ With every start of this app you get a new recommondation for a book to start in
 
 
 ## Features
-- Show book titles
-- Show book abstract
-- Show advices
+- Show a To do for two persons in 10 years
 
 
 ## Screenshots
-**Booktitle**
+**Future of *name1* and *name2* **
 
-"Brief abstract of the given book."
-
-Hints an comments on the given book. 
+"*Name1* and *name2* are traveling together around the world."
 
 
 ## Setup
@@ -56,12 +54,12 @@ Project is: _in progress_
 ## Room for Improvement
 Room for improvement:
 - Programm currently under development
-- It should be possible to add new books via the Terminal
+- It should be possible to add new names via the Terminal
+- It should be possible to add new activities via the Terminal
 
 To do:
-- Show Titles
-- Show related abstract
-- Show related tips
+- Show names
+- Show activity in the future
 
 
 ## Contact
