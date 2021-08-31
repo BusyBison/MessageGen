@@ -1,4 +1,4 @@
-# Parents book recommendation
+# Future activities
 With every start of this app you get a new random message what the two people are doing in ten years.
 
 
